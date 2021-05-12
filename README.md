@@ -1,1 +1,1 @@
-# bestgames2020.gihub.io
+# bestgames2020.github.io
